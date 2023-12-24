@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/rkj3001/rkj3001/blob/main/Architect%20Linkedin%20Background%20(1).png?raw=true)
 
-## Hi, I'm Rahul Krishna Eragarla<img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="60" > aka Krsna
+## Hi, I'm  Krishna Eragarla<img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="60" > aka Krsna
 ### I'm a Developer and Student!!  <img src="https://media3.giphy.com/media/NWNJHyPmIuXGxt6QnO/giphy_s.gif" width="25">
 
 - 🎈 I’m currently exploring as much as I can 😁
