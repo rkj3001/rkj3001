@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://github.com/rkj3001/rkj3001/blob/main/Architect%20Linkedin%20Background%20(1).png?raw=true)](https://rishavchanda.io)
 
 
 ## Hi, I'm Rahul Krishna Eragarla <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="60" height ="50" > aka Krsna
