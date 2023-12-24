@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/rkj3001/rkj3001/blob/main/Architect%20Linkedin%20Background%20(1).png?raw=true)]
+![MasterHead](https://github.com/rkj3001/rkj3001/blob/main/Architect%20Linkedin%20Background%20(1).png?raw=true)
 
 ## Hi, I'm Rahul Krishna Eragarla <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="60" height ="50" > aka Krsna
 ### I'm a Developer and Student!!  <img src="https://media3.giphy.com/media/NWNJHyPmIuXGxt6QnO/giphy_s.gif" width="25">
